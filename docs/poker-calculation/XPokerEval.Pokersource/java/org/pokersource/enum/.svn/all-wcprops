@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum
+END
+HoldemBeliefVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/HoldemBeliefVector.java
+END
+HoldemCanonGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/HoldemCanonGroup.java
+END
+NestedLoopSampling.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/NestedLoopSampling.java
+END
+HoldemHandGroupFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/HoldemHandGroupFactory.java
+END
+BeliefVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/BeliefVector.java
+END
+HoldemUniversalGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/HoldemUniversalGroup.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/package.html
+END
+HoldemHandGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/HoldemHandGroup.java
+END
+SAIE.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/SAIE.java
+END
+HoldemAtomicGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/HoldemAtomicGroup.java
+END
+NestedLoopEnumeration.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/NestedLoopEnumeration.java
+END
+HoldemSMGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/HoldemSMGroup.java
+END
+Enumerate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/Enumerate.java
+END
+HandGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/HandGroup.java
+END
+EnumerateImp.c
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/EnumerateImp.c
+END
+HandMatchup.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/HandMatchup.java
+END
+MatchupOutcome.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/MatchupOutcome.java
+END
+HoldemAbdulGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/HoldemAbdulGroup.java
+END

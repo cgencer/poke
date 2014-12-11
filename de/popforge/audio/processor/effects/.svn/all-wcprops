@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/effects
+END
+ParametricEQ.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/effects/ParametricEQ.as
+END
+Flanger.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/effects/Flanger.as
+END
+StereoDelay.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/effects/StereoDelay.as
+END
+CCCompressor.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/effects/CCCompressor.as
+END
+Waveshaper.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/effects/Waveshaper.as
+END
+BasicFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/effects/BasicFilter.as
+END
+Distort.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/effects/Distort.as
+END
+Compressor.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/effects/Compressor.as
+END
+PitchShifter.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/effects/PitchShifter.as
+END

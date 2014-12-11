@@ -1,0 +1,43 @@
+<project name="obsesif" default="compile">
+	<condition property="flex.mxmlc" value="c:\bin\flex\bin\mxmlc.exe">
+			<os family="windows" />
+	</condition>
+	<condition property="flex.mxmlc" value="/Applications/flex_sdk_3/bin/mxmlc">
+			<os family="mac" />
+	</condition>
+
+	<property name="dest.dir" value="fin" />    
+	<property name="dest.fn" value="main2.swf" />    
+
+	<target name="-init">
+		<delete dir="${dest.dir}" />
+		<mkdir dir="${dest.dir}" />
+	</target>
+
+	<target name="-setDebug">
+		<property name="debugVar" value="true" />
+	</target>
+
+	<target name="-setRelease">
+		<property name="releaseVar" value="true" />
+	</target>
+
+	<target name="compile" depends="-init">
+		<property name="debugVar" value="false" />
+		<property name="releaseVar" value="false" />
+
+		<exec executable="${flex.mxmlc}" failonerror="true">
+			<arg line="-use-network"/>
+			<arg line="-compiler.include-libraries bin/spicelib-core-1.1.0.swc bin/spicelib-logging-1.1.0.swc"/>
+			<arg line="-default-frame-rate=30"/>
+			<arg line="-output '${dest.dir}/${dest.fn}'"/>
+			<arg line="-define=CONFIG::debug,${debugVar}"/>
+			<arg line="-define=CONFIG::release,${releaseVar}"/>
+			<arg line="main.as"/>
+		</exec>
+	</target>
+
+	<target name="debug" depends="-setDebug,compile"/>
+	<target name="release" depends="-setRelease,compile"/>
+
+</project>

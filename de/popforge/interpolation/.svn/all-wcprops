@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/poke/!svn/ver/304/de/popforge/interpolation
+END
+InterpolationCubic.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poke/!svn/ver/304/de/popforge/interpolation/InterpolationCubic.as
+END
+InterpolationLinear.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poke/!svn/ver/304/de/popforge/interpolation/InterpolationLinear.as
+END
+Interpolation.as
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/poke/!svn/ver/304/de/popforge/interpolation/Interpolation.as
+END
+InterpolationCosine.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poke/!svn/ver/304/de/popforge/interpolation/InterpolationCosine.as
+END
+ControlPoint.as
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/poke/!svn/ver/304/de/popforge/interpolation/ControlPoint.as
+END
+InterpolationMode.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poke/!svn/ver/304/de/popforge/interpolation/InterpolationMode.as
+END

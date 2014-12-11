@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/src/handevaluator/generator/eval
+END
+ThreeOfAKindEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/src/handevaluator/generator/eval/ThreeOfAKindEvaluator.java
+END
+StraightEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/src/handevaluator/generator/eval/StraightEvaluator.java
+END
+TwoPairEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/src/handevaluator/generator/eval/TwoPairEvaluator.java
+END
+FullHouseEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/src/handevaluator/generator/eval/FullHouseEvaluator.java
+END
+FourOfAKindEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/src/handevaluator/generator/eval/FourOfAKindEvaluator.java
+END
+HighCardEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/src/handevaluator/generator/eval/HighCardEvaluator.java
+END
+PairEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/src/handevaluator/generator/eval/PairEvaluator.java
+END

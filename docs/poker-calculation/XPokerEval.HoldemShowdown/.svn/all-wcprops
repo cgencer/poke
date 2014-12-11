@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.HoldemShowdown
+END
+XPokerEval.HoldemShowdown.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.HoldemShowdown/XPokerEval.HoldemShowdown.vcproj
+END
+HandEval.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.HoldemShowdown/HandEval.c
+END
+ABOUT.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.HoldemShowdown/ABOUT.TXT
+END
+HandEval.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.HoldemShowdown/HandEval.h
+END
+Showdown.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.HoldemShowdown/Showdown.c
+END
+Showdown.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.HoldemShowdown/Showdown.h
+END

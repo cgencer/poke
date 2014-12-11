@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/test
+END
+SAIETest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/test/SAIETest.java
+END
+HoldemAtomicGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/test/HoldemAtomicGroupTest.java
+END
+HoldemBeliefVectorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/test/HoldemBeliefVectorTest.java
+END
+NestedLoopEnumerationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/test/NestedLoopEnumerationTest.java
+END
+HoldemCanonGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/test/HoldemCanonGroupTest.java
+END
+EnumerateTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/test/EnumerateTest.java
+END
+HoldemSMGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/test/HoldemSMGroupTest.java
+END
+HoldemHandGroupFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/test/HoldemHandGroupFactoryTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/test/AllTests.java
+END
+HandMatchupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/test/HandMatchupTest.java
+END
+HoldemAbdulGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/test/HoldemAbdulGroupTest.java
+END
+HoldemUniversalGroupTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/java/org/pokersource/enum/test/HoldemUniversalGroupTest.java
+END

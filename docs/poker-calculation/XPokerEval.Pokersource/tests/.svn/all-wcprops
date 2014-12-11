@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/tests
+END
+Makefile.dos
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/tests/Makefile.dos
+END
+poker_wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/tests/poker_wrapper.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/tests/Makefile.in
+END
+joktest1.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/tests/joktest1.c
+END
+enumtest1.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/tests/enumtest1.c
+END
+enumtest2.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/tests/enumtest2.c
+END
+enumtest3.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/tests/enumtest3.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/tests/Makefile.am
+END
+run.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/tests/run.in
+END
+enumtest5.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/tests/enumtest5.c
+END
+enumtest7.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/tests/enumtest7.c
+END

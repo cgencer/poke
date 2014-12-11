@@ -1,0 +1,287 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib
+END
+t_botfivecards.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_botfivecards.c
+END
+mktab_astud.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/mktab_astud.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/Makefile.in
+END
+t_evx_pairval.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_evx_pairval.c
+END
+t_jokerstraight.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_jokerstraight.c
+END
+rules_std.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/rules_std.c
+END
+mktab_packed.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/mktab_packed.c
+END
+deck.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/deck.c
+END
+t_botfivecardsj.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_botfivecardsj.c
+END
+t_straight.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_straight.c
+END
+t_evx_tripsval.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_evx_tripsval.c
+END
+evx_generate.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/evx_generate.c
+END
+t_topfivecards.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_topfivecards.c
+END
+t_nbitsandstr.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_nbitsandstr.c
+END
+deck_std.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/deck_std.c
+END
+t_evx_strval.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_evx_strval.c
+END
+poker_wrapper.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/poker_wrapper.c
+END
+t_topfivebits.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_topfivebits.c
+END
+rules_joker.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/rules_joker.c
+END
+t_topbit.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_topbit.c
+END
+rules_astud.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/rules_astud.c
+END
+t_cardmasks.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_cardmasks.c
+END
+lowball.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/lowball.c
+END
+mktable_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/mktable_utils.c
+END
+mktab_basic.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/mktab_basic.c
+END
+deck_joker.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/deck_joker.c
+END
+t_botcard.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_botcard.c
+END
+t_toptwobits.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_toptwobits.c
+END
+evx.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/evx.c
+END
+t_nbits.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_nbits.c
+END
+t_evx_flushcards.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_evx_flushcards.c
+END
+deck_astud.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/deck_astud.c
+END
+enumord.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/enumord.c
+END
+evx_preamble.cfrag
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/evx_preamble.cfrag
+END
+mktab_lowball.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/mktab_lowball.c
+END
+mktable.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/mktable.c
+END
+t_topcard.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_topcard.c
+END
+mktab_evx.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/mktab_evx.c
+END
+Makefile.dos
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/Makefile.dos
+END
+mktable.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/mktable.h
+END
+combinations.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/combinations.c
+END
+enumerate.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/enumerate.c
+END
+t_jokercardmasks.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_jokercardmasks.c
+END
+mktab_joker.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/mktab_joker.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/Makefile.am
+END
+t_maskrank.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_maskrank.c
+END
+t_astudcardmasks.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/lib/t_astudcardmasks.c
+END

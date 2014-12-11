@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/configure
+END
+mktab_evx.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/mktab_evx.vcproj
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/AUTHORS
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/ChangeLog
+END
+WHATS-HERE.Java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/WHATS-HERE.Java
+END
+ABOUT.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/ABOUT.TXT
+END
+mktab_joker.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/mktab_joker.vcproj
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/README
+END
+poker-eval.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/poker-eval.nsi
+END
+poker-eval.sln
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/poker-eval.sln
+END
+mktab_astud.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/mktab_astud.vcproj
+END
+make_master.sh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/make_master.sh
+END
+mktab_basic.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/mktab_basic.vcproj
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/configure.ac
+END
+poker-eval.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/poker-eval.spec.in
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/INSTALL
+END
+mktab_packed.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/mktab_packed.vcproj
+END
+WHATS-HERE
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/WHATS-HERE
+END
+poker-eval.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/poker-eval.vcproj
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/Makefile.am
+END
+poker-eval.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/poker-eval.pc.in
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/NEWS
+END
+mktab_lowball.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/mktab_lowball.vcproj
+END
+packaging-farm.bat
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/packaging-farm.bat
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/aclocal.m4
+END

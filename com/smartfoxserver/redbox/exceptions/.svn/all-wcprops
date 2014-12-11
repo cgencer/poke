@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/poke/!svn/ver/302/com/smartfoxserver/redbox/exceptions
+END
+ClipActionNotAllowedException.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/poke/!svn/ver/302/com/smartfoxserver/redbox/exceptions/ClipActionNotAllowedException.as
+END
+BadRequestException.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/poke/!svn/ver/302/com/smartfoxserver/redbox/exceptions/BadRequestException.as
+END
+NoAVConnectionException.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/302/com/smartfoxserver/redbox/exceptions/NoAVConnectionException.as
+END
+MyUserPropsNotSetException.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/poke/!svn/ver/302/com/smartfoxserver/redbox/exceptions/MyUserPropsNotSetException.as
+END
+InvalidChatSessionIdException.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/poke/!svn/ver/302/com/smartfoxserver/redbox/exceptions/InvalidChatSessionIdException.as
+END
+InvalidParamsException.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poke/!svn/ver/302/com/smartfoxserver/redbox/exceptions/InvalidParamsException.as
+END

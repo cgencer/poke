@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines
+END
+evx7.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines/evx7.h
+END
+eval_joker_low8.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines/eval_joker_low8.h
+END
+eval_omaha.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines/eval_omaha.h
+END
+evx_action.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines/evx_action.h
+END
+eval_low8.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines/eval_low8.h
+END
+eval_joker.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines/eval_joker.h
+END
+eval_low27.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines/eval_low27.h
+END
+eval_joker_low.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines/eval_joker_low.h
+END
+evx_inlines.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines/evx_inlines.h
+END
+eval.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines/eval.h
+END
+eval_astud.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines/eval_astud.h
+END
+evx5.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines/evx5.h
+END
+eval_low.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines/eval_low.h
+END
+eval_type.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/inlines/eval_type.h
+END

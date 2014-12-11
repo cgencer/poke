@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.PokerSource.KeithRule
+END
+HandEvaluator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.PokerSource.KeithRule/HandEvaluator.cs
+END
+HandAnalysis.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.PokerSource.KeithRule/HandAnalysis.cs
+END
+PocketHands.cs
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.PokerSource.KeithRule/PocketHands.cs
+END
+ABOUT.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.PokerSource.KeithRule/ABOUT.TXT
+END
+HandIterator.cs
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.PokerSource.KeithRule/HandIterator.cs
+END
+XPokerEval.PokerSource.KeithRule.csproj
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.PokerSource.KeithRule/XPokerEval.PokerSource.KeithRule.csproj
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/bitboy/formats/xm
+END
+XMFormat.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/bitboy/formats/xm/XMFormat.as
+END
+XMInstrument.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/bitboy/formats/xm/XMInstrument.as
+END
+XMSampleHeader.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/bitboy/formats/xm/XMSampleHeader.as
+END
+XMPattern.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/bitboy/formats/xm/XMPattern.as
+END
+XMInstrumentHeader.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/bitboy/formats/xm/XMInstrumentHeader.as
+END
+XMSample.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/bitboy/formats/xm/XMSample.as
+END
+XMFormatError.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/bitboy/formats/xm/XMFormatError.as
+END
+XMTrigger.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/bitboy/formats/xm/XMTrigger.as
+END
+XMVolumeCommand.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/304/de/popforge/audio/processor/bitboy/formats/xm/XMVolumeCommand.as
+END

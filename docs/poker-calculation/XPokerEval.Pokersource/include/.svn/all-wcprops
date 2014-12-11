@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include
+END
+pokereval_export.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/pokereval_export.h
+END
+rules_astud.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/rules_astud.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/Makefile.in
+END
+handval_low.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/handval_low.h
+END
+deck_joker.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/deck_joker.h
+END
+game_joker.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/game_joker.h
+END
+evx_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/evx_defs.h
+END
+rules_std.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/rules_std.h
+END
+poker_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/poker_config.h
+END
+enumdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/enumdefs.h
+END
+deck_astud.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/deck_astud.h
+END
+deck.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/deck.h
+END
+game_astud.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/game_astud.h
+END
+enumord.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/enumord.h
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/config.h.in
+END
+poker_config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/poker_config.h.in
+END
+Makefile.dos
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/Makefile.dos
+END
+rules_undef.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/rules_undef.h
+END
+handval.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/handval.h
+END
+deck_std.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/deck_std.h
+END
+poker_wrapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/poker_wrapper.h
+END
+poker_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/poker_defs.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/Makefile.am
+END
+game_std.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/game_std.h
+END
+rules_joker.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/rules_joker.h
+END
+enumerate.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/enumerate.h
+END
+combinations.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/combinations.h
+END
+deck_undef.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.Pokersource/include/deck_undef.h
+END

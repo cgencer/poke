@@ -1,0 +1,55 @@
+10
+
+dir
+933
+https://subversion.assembla.com/svn/poke/de/popforge
+https://subversion.assembla.com/svn/poke
+
+
+
+2009-07-30T08:33:00.059397Z
+304
+cgencer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+080cfd25-d5d9-4c59-82ea-70d02a200d8b
+
+parameter
+dir
+
+utils
+dir
+
+audio
+dir
+
+fui
+dir
+
+gui
+dir
+
+interpolation
+dir
+
+format
+dir
+
+math
+dir
+
+ui
+dir
+

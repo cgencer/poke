@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer
+END
+handevaluatorjni.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/handevaluatorjni.c
+END
+XPokerEval.MoritzHammer.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/XPokerEval.MoritzHammer.vcproj
+END
+carddeck.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/carddeck.cpp
+END
+handevaluator_jni_JNIHandEvaluator.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/handevaluator_jni_JNIHandEvaluator.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/LICENSE
+END
+handevaluator.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/handevaluator.h
+END
+carddeck.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/carddeck.h
+END
+ABOUT.TXT
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/ABOUT.TXT
+END
+randomgenerator.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/randomgenerator.c
+END
+configure.local
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/configure.local
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/Makefile
+END
+randomgenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/randomgenerator.h
+END
+common.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/common.h
+END
+handevaluator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/poke/!svn/ver/306/docs/poker-calculation/XPokerEval.MoritzHammer/handevaluator.cpp
+END

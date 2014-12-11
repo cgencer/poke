@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/poke/!svn/ver/563/it/gotoandplay/smartfoxserver/handlers
+END
+ExtHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poke/!svn/ver/309/it/gotoandplay/smartfoxserver/handlers/ExtHandler.as
+END
+IMessageHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/poke/!svn/ver/309/it/gotoandplay/smartfoxserver/handlers/IMessageHandler.as
+END
+SysHandler.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poke/!svn/ver/563/it/gotoandplay/smartfoxserver/handlers/SysHandler.as
+END

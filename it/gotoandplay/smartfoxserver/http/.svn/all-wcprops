@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/poke/!svn/ver/563/it/gotoandplay/smartfoxserver/http
+END
+LoaderFactory.as
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/poke/!svn/ver/309/it/gotoandplay/smartfoxserver/http/LoaderFactory.as
+END
+HttpConnection.as
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/poke/!svn/ver/563/it/gotoandplay/smartfoxserver/http/HttpConnection.as
+END
+HttpEvent.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/poke/!svn/ver/309/it/gotoandplay/smartfoxserver/http/HttpEvent.as
+END
+IHttpProtocolCodec.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/poke/!svn/ver/309/it/gotoandplay/smartfoxserver/http/IHttpProtocolCodec.as
+END
+RawProtocolCodec.as
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/poke/!svn/ver/309/it/gotoandplay/smartfoxserver/http/RawProtocolCodec.as
+END
